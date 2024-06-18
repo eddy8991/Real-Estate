@@ -1,0 +1,5 @@
+{
+  "codeium.enableCodeLens": false,
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode"
+}
